@@ -17,9 +17,11 @@
      <script src="<?= base_url("assets/gentelella/vendors/fastclick/lib/fastclick.js"); ?>"></script>
      <!-- NProgress -->
      <script src="<?= base_url("assets/gentelella/vendors/nprogress/nprogress.js"); ?>"></script>
+     <!-- select2 -->
+     <script src="<?= base_url("assets/gentelella/vendors/select2/dist/js/select2.min.js"); ?>"></script>
 
      <!-- Custom Theme Scripts -->
-     <script src="<?= base_url("assets/gentelella/build/js/custom.min.js"); ?>"></script>
+     <script src="<?= base_url("assets/gentelella/build/js/custom.js"); ?>"></script>
      </body>
 
      </html>
