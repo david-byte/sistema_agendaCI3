@@ -58,7 +58,7 @@
               <ul class="nav side-menu">
                 <li><a><i class="fa fa-bug"></i>Admin<span class="fa fa-chevron-down"></span></a>
                   <ul class="nav child_menu">
-                    <li><a href="e_commerce.html">Estados</a></li>
+                    <li><a href="<?= base_url("estados")?>">Estados</a></li>
                     <li><a href="projects.html">Projects</a></li>
                     <li><a href="project_detail.html">Project Detail</a></li>
                     <li><a href="contacts.html">Contacts</a></li>

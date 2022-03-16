@@ -23,7 +23,7 @@ class Estado_model extends CI_Model
         );
 
         $this->db->from($this->table);
-        return $this->db->get($this->table)->row();
+        return $this->db->get()->result();
     }
 
     public function get_by_id($id) 
